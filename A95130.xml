@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true proceedings of both armies; from the twelfe of November, to the twenty foure. With many remarkeable passages which has happened since the battaile at Branford. Also a relation made by Captaine Rogers, concerning the death of Prince Robert, Prince Maurice, and many other of the Kings chiefe commanders, wich the maner how they were kild, the said captaine being an eye witnesse of the same.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95130</idno><idno type="EEBO-CITATION">99871488</idno>
+  <idno type="VID">156231</idno>
+  <idno type="EEBO-PROQUEST">2240944928</idno>
+  
+            <idno type="STC">Wing T2859</idno>
+            <idno type="STC">Thomason E127_49</idno>
+            <idno type="STC">ESTC R21723</idno>
+            <idno type="PROQUEST">99871488</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871488e"/>
+            <note>(EEBO-TCP ; phase 2, no. A95130)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156231)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E127[49])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true proceedings of both armies; from the twelfe of November, to the twenty foure. With many remarkeable passages which has happened since the battaile at Branford. Also a relation made by Captaine Rogers, concerning the death of Prince Robert, Prince Maurice, and many other of the Kings chiefe commanders, wich the maner how they were kild, the said captaine being an eye witnesse of the same.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. F. for R. C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Nov. 24 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Rogers, --  Captain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156231:1"/>
+            <p>THE TRVE PROCEEDINGS OF Both ARMIES; From the twelfe of <hi>November,</hi> to the twenty foure. With many remarkeable passages which has happened since the Battaile at BRANFORD. Also a relation made by Captaine <hi>ROGERS,</hi> Concerning the death of Prince <hi>Robert,</hi> Prince <hi>Maurice,</hi> and many other of the Kings chiefe Commanders, with the maner how they were kild, the said Captaine be<g ref="char:EOLhyphen"/>ing an Eye witnesse of the same.</p>
+            <p>LONDON. Printed by <hi>T. F</hi> for <hi>R. C. Nov.</hi> 24 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:156231:2"/>
+            <pb facs="tcp:156231:2"/>
+            <head>The passages of both Armies, from the 12th. of <hi>November,</hi> to the 22.</head>
+            <div n="12 Nov" type="day">
+               <p>
+                  <seg rend="decorInit">O</seg>N Saturday they be<g ref="char:EOLhyphen"/>gan the battaile very fiercely, for there was Letters sent to the Par<g ref="char:EOLhyphen"/>liament, and before hey could come, the King commanded the Cavaliers to give fire upon our men, which were unprovided for Battaile, having nei<g ref="char:EOLhyphen"/>ther Powder nor Shot to helpe themselves withall, so that they got the advantage at the beginning, but my Lord <hi>Roberts</hi> held them out, till Collonell <hi>Hollis</hi> his Regiment came and Collonell <hi>Hambden</hi> his Regiment, so they held them play till the other forces came in, although it was late before they could come to their rescue, but being come
+<pb facs="tcp:156231:3"/> in but they fell on Courragiously with re<g ref="char:EOLhyphen"/>solved hearts to spend their dearest bloud for the defence of the gospell, so the Lord did uphold them for they had glory and victory over the Cavaliers, for they slew some 7. or<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 8. hundred of the Cavaliers, their were some taken prisoners one both sides there was 150. of our men slain so they were forced to leaveof for that night.</p>
+            </div>
+            <div n="13 Nov" type="day">
+               <head>Sunday the 13. of November</head>
+               <p>SUnday our men began againe but there was no answeare to them for they durst not shew there faces to our men, for they had to hot service the day before, there was 2. or 3. Pinnises displayed against them from the thames, which they flew against, they knowing they were to weake for them, so they sunke the Pinnises and so got a<g ref="char:EOLhyphen"/>way, then the Cavaliers they flew over into <hi>Kingston</hi> upon thames, there to shelter them<g ref="char:EOLhyphen"/>selves from our men, and our men they in<g ref="char:EOLhyphen"/>habited in <hi>Branford</hi> which they found most wofully pilladged for they had not left any thing that they could carry away, or de<g ref="char:EOLhyphen"/>vouer, and what they could not they spoy<g ref="char:EOLhyphen"/>led,
+<pb facs="tcp:156231:3"/> breakeing their Bedileads, cutting their Feather-Beds, scatering their, feathers about the streets, they broke Chests and Tables, making all the spoyle they could.</p>
+            </div>
+            <div n="14 Nov" type="day">
+               <head>Munday the 14. of November.</head>
+               <p>MUnday they sought to bury their dead, also they tooke 3 women which fol<g ref="char:EOLhyphen"/>the Cavaliers, that had used cruelty to our men, for they had cut the throates of of many of our men thet were wounded, by that meanes to weaken our Army, for which cause our men drowned two of them, the other being throwne into the Thames, would not sinke, then they thrust her downe with a Pike, but yet for all this she should not sinke, then they tooke her up againe, and layed her in the Stocks, and within a while after they killed her, before her death she confessed that they had two shillings a day for doing such horrid worke.</p>
+            </div>
+            <div n="15 Nov" type="day">
+               <head>Tuesday the 15. of November.</head>
+               <p>TUesday our men lay still all day in their quarters, but at night there was a falce allarum, which made our men stand in Armes all that night</p>
+            </div>
+            <div n="16 Nov" type="day">
+               <pb facs="tcp:156231:4"/>
+               <head>Wednesday the 16. of November</head>
+               <p>WEdnesday our men tooke a Woman of the Cavaliers which was another actor of villany and tirany which had done as the other, but our men put her to death, also they took five Cavaliers which were sent to <hi>Hammersmith</hi> to my Lord Generall, which were sent to <hi>London</hi> also there were 2. other taken which were Commanders which confest that their in<g ref="char:EOLhyphen"/>tention was to beset the City and batter it to the ground, or fire it, when they were ta<g ref="char:EOLhyphen"/>ken they threw their Gold into the Thames that our men should have none of it, they were sent to the Parliament who were com<g ref="char:EOLhyphen"/>mited to costody till they could be exami<g ref="char:EOLhyphen"/>ned our men having a false allarum yester night Captaine <hi>Askew</hi> went to <hi>Kingston</hi>-bridge at 12. of the Clock in the night, and discharged at them, and so flew back with<g ref="char:EOLhyphen"/>out any harme, so he made them watch all night as our men had done before.</p>
+            </div>
+            <div n="17 Nov" type="day">
+               <head>Thursday, the 17. of November.</head>
+               <p>THursday, our men thought to have had some newes from the other Army, but
+<pb facs="tcp:156231:4"/> there was none, onely 124. of our men which were taken prisoners, returned to their quarters, there was a young man, a plummer in <hi>Woodstreet,</hi> that saw an Ensigne fall, he tooke it up, and seeing himselfe pur<g ref="char:EOLhyphen"/>sued, he thrust that and his Sword into the thatch of a House, and when be came backe he found them in the same place, so he is like now to beare them, as he doth well de<g ref="char:EOLhyphen"/>serve.</p>
+            </div>
+            <div n="18 Nov" type="day">
+               <head>Friday the 18. of November.</head>
+               <p>THere was a young man of our Army, that was sitting by the fire, a Musket was discharged, which shot him through the Arme, but by whome is not yet known.</p>
+            </div>
+            <div n="19 Nov" type="day">
+               <head>Satturday, the 19. of November.</head>
+               <p>SAtturday, there was one of our men that got the Captaines Pistols which were charged, and set the mouth against his Brest, and on a sudden the Pistoll went off and shot him throw the Brest, so that he dyed presently.</p>
+            </div>
+            <div n="21 Nov" type="day">
+               <p>Munday some of our Troopers marched towards the Kings Army, which was gone to <hi>Gilford.</hi>
+               </p>
+            </div>
+            <div n="22 Nov" type="day">
+               <pb facs="tcp:156231:5"/>
+               <p>Tuesday there was 3. Skouts taken, which confest that the Cavaliers watch for such another oportunity as they had at <hi>Brain<g ref="char:EOLhyphen"/>ford,</hi> but our men sweare they will be bet<g ref="char:EOLhyphen"/>provided for them.</p>
+            </div>
+            <div n="23 Nov" type="day">
+               <p>Wednesday our Troopers marcht from <hi>Branford</hi> towards the other Army, also the <hi>Essex</hi>-men are discarged, onely two Cap<g ref="char:EOLhyphen"/>taines, which came in on Munday, which stay during the Lord Generalls pleasure.</p>
+            </div>
+            <div n="23 Oct" type="day">
+               <p>On Sunday the 23 of <hi>October,</hi> at the Bat<g ref="char:EOLhyphen"/>taile at <hi>Kenton,</hi> one Captain <hi>Rogers</hi> being in the Battaile in great danger, the Cavaliers falling upon him, he had he word, by which meanes he passed unsuspected, where he saw Prince <hi>Robert</hi> shot with a P<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ece of O<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<g ref="char:EOLhyphen"/>nance in the side, so that his heart lay open to the view of all the world. Prince <hi>
+                     <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>au<g ref="char:EOLhyphen"/>rice</hi> was killed in the Battaile at <hi>Worcest<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r,</hi> and was buried in a Vault, the Earle of <hi>Straffords</hi> Sonne doth supply his place of tirany and rigor.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156231:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
